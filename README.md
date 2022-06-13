@@ -1,10 +1,11 @@
-[Test](https://github.com/ThomasStenger/test)
-
 - 👋 Hi, I’m @ThomasStenger
-- 👀 I’m interested in learning more about interesting stuff.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Just a little space to display some of the projects I've been involved in. 
+
+[EDA & Prediction Hourly Bike Users](https://github.com/ThomasStenger/Prediction-Hourly-Bike-Users)
+
+[Binance Trading Bot](https://github.com/ThomasStenger/Binance-Trading-Bot)
+
+[Twitter Crypto Analysis](https://github.com/ThomasStenger/Twitter-Crypto-Analysis)
 
 <!---
 ThomasStenger/ThomasStenger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
