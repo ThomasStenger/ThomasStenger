@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ThomasStenger
-- 👀 Just a little space to display some of the projects I've been involved in. 
+👋 Hi, I’m @ThomasStenger
+
+👀 Just a little space to display some of the projects I've been involved in: 
 
 [EDA & Prediction Hourly Bike Users](https://github.com/ThomasStenger/Prediction-Hourly-Bike-Users)
 
